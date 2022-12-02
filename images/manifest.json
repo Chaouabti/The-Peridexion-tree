@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 4155,
+    "id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/Bodleian-Library-MS-Laud-Misc-247-162v-detail/canvas/",
+    "label" : {
+      "none" : [ "Bodleian-Library-MS-Laud-Misc-247-162v-detail" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/Bodleian-Library-MS-Laud-Misc-247-162v-detail/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/Bodleian-Library-MS-Laud-Misc-247-162v-detail/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 130,
+              "height" : 87
+            }, {
+              "width" : 260,
+              "height" : 173
+            }, {
+              "width" : 520,
+              "height" : 345
+            }, {
+              "width" : 1039,
+              "height" : 690
+            }, {
+              "width" : 2078,
+              "height" : 1380
+            }, {
+              "width" : 4155,
+              "height" : 2759
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 4155,
+            "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/Bodleian-Library-MS-Laud-Misc-247-162v-detail",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2759
+          } ],
+          "format" : "image/jpeg",
+          "width" : 4155,
+          "id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/Bodleian-Library-MS-Laud-Misc-247-162v-detail/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2759
+        },
+        "target" : "https://Chaouabti.github.io/The-Peridexion-tree/images/Bodleian-Library-MS-Laud-Misc-247-162v-detail/canvas/"
+      } ]
+    } ],
+    "height" : 2759
+  }, {
     "width" : 2753,
     "id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/Bodleian-Library-MS-Laud-Misc-247_162v/canvas/",
     "label" : {
