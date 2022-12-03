@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 5517,
+    "id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/Add._11283_f24v/canvas/",
+    "label" : {
+      "none" : [ "Add._11283_f24v" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/Add._11283_f24v/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/Add._11283_f24v/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 173,
+              "height" : 251
+            }, {
+              "width" : 345,
+              "height" : 502
+            }, {
+              "width" : 690,
+              "height" : 1003
+            }, {
+              "width" : 1380,
+              "height" : 2006
+            }, {
+              "width" : 2759,
+              "height" : 4012
+            }, {
+              "width" : 5517,
+              "height" : 8024
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 5517,
+            "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/Add._11283_f24v",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 8024
+          } ],
+          "format" : "image/jpeg",
+          "width" : 5517,
+          "id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/Add._11283_f24v/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 8024
+        },
+        "target" : "https://Chaouabti.github.io/The-Peridexion-tree/images/Add._11283_f24v/canvas/"
+      } ]
+    } ],
+    "height" : 8024
+  }, {
     "width" : 5880,
     "id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/CCC_Paker_Library_022_169r/canvas/",
     "label" : {
