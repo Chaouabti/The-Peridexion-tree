@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 5880,
+    "id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/CCC_Paker_Library_022_169r/canvas/",
+    "label" : {
+      "none" : [ "CCC_Paker_Library_022_169r" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/CCC_Paker_Library_022_169r/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/CCC_Paker_Library_022_169r/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 184,
+              "height" : 278
+            }, {
+              "width" : 368,
+              "height" : 555
+            }, {
+              "width" : 735,
+              "height" : 1109
+            }, {
+              "width" : 1470,
+              "height" : 2217
+            }, {
+              "width" : 2940,
+              "height" : 4434
+            }, {
+              "width" : 5880,
+              "height" : 8867
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 5880,
+            "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/CCC_Paker_Library_022_169r",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 8867
+          } ],
+          "format" : "image/jpeg",
+          "width" : 5880,
+          "id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/CCC_Paker_Library_022_169r/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 8867
+        },
+        "target" : "https://Chaouabti.github.io/The-Peridexion-tree/images/CCC_Paker_Library_022_169r/canvas/"
+      } ]
+    } ],
+    "height" : 8867
+  }, {
     "width" : 4155,
     "id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/Bodleian-Library-MS-Laud-Misc-247-162v-detail/canvas/",
     "label" : {
