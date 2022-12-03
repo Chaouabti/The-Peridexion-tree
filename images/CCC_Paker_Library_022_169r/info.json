@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 184,
+    "height" : 278
+  }, {
+    "width" : 368,
+    "height" : 555
+  }, {
+    "width" : 735,
+    "height" : 1109
+  }, {
+    "width" : 1470,
+    "height" : 2217
+  }, {
+    "width" : 2940,
+    "height" : 4434
+  }, {
+    "width" : 5880,
+    "height" : 8867
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5880,
+  "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/CCC_Paker_Library_022_169r",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 8867
+}
