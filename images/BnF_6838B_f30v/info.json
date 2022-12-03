@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 64,
+    "height" : 81
+  }, {
+    "width" : 128,
+    "height" : 161
+  }, {
+    "width" : 256,
+    "height" : 321
+  }, {
+    "width" : 512,
+    "height" : 642
+  }, {
+    "width" : 1024,
+    "height" : 1283
+  }, {
+    "width" : 2048,
+    "height" : 2566
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2048,
+  "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/BnF_6838B_f30v",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2566
+}
