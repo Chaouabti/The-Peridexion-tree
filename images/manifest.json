@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 4872,
+    "id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/Bern_318_017v/canvas/",
+    "label" : {
+      "none" : [ "Bern_318_017v" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/Bern_318_017v/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/Bern_318_017v/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 153,
+              "height" : 203
+            }, {
+              "width" : 305,
+              "height" : 406
+            }, {
+              "width" : 609,
+              "height" : 812
+            }, {
+              "width" : 1218,
+              "height" : 1624
+            }, {
+              "width" : 2436,
+              "height" : 3248
+            }, {
+              "width" : 4872,
+              "height" : 6496
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 4872,
+            "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/Bern_318_017v",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 6496
+          } ],
+          "format" : "image/jpeg",
+          "width" : 4872,
+          "id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/Bern_318_017v/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 6496
+        },
+        "target" : "https://Chaouabti.github.io/The-Peridexion-tree/images/Bern_318_017v/canvas/"
+      } ]
+    } ],
+    "height" : 6496
+  }, {
     "width" : 6366,
     "id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/Bodleian_Library_Ashmole_1511_f77v/canvas/",
     "label" : {
