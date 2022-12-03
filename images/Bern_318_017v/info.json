@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 153,
+    "height" : 203
+  }, {
+    "width" : 305,
+    "height" : 406
+  }, {
+    "width" : 609,
+    "height" : 812
+  }, {
+    "width" : 1218,
+    "height" : 1624
+  }, {
+    "width" : 2436,
+    "height" : 3248
+  }, {
+    "width" : 4872,
+    "height" : 6496
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4872,
+  "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/images/Bern_318_017v",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 6496
+}
