@@ -1,0 +1,13 @@
+{
+  "id" : "https://Chaouabti.github.io/The-Peridexion-tree/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Chaouabti/The-Peridexion-tree project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/manifests/IIIF_Peridexion.json",
+    "label" : "Peridexion_tree"
+  } ]
+}
