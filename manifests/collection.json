@@ -5,5 +5,9 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ ]
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/manifests/Peridexion_project",
+    "label" : "Peridexion_tree"
+  } ]
 }
