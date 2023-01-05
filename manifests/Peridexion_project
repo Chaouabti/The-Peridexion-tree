@@ -1,0 +1,205 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/manifests/Peridexion_project",
+  "@type" : "sc:Manifest",
+  "label" : "Peridexion_tree",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[The Peridexion tree: an iconographic comparison around the same motif. Examples from different manuscripts from the 12th and 13th centuries.]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Thanks to the various institutions that shared their collections: the Burgerbibliothek (Bern), the Bodleian Library (Oxford), the Parker Library (Cambridge), the Biblioteca Apostolica Vaticana (Roma), the British Library (London) and the Bibliothèque nationale de France (Paris)]",
+  "sequences" : [ {
+    "@id" : "http://92ee62af-1267-45ad-b930-d04934e4a800",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://91d3af6a-cb84-4b95-a806-42f8765a86c5",
+      "@type" : "sc:Canvas",
+      "label" : "Bodleian_Laud_Misc_247_162v",
+      "height" : 4161,
+      "width" : 2753,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8369bdab-0295-4927-aed6-332c82534580",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://chaouabti.github.io/The-Peridexion-tree/images/Bodleian-Library-MS-Laud-Misc-247_00035_fol-162v/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://chaouabti.github.io/The-Peridexion-tree/images/Bodleian-Library-MS-Laud-Misc-247_00035_fol-162v",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4161,
+          "width" : 2753
+        },
+        "on" : "http://91d3af6a-cb84-4b95-a806-42f8765a86c5"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e4fbb5cf-98b2-40d1-a780-308061d6ea8c",
+      "@type" : "sc:Canvas",
+      "label" : "Bern_318_17v",
+      "height" : 6496,
+      "width" : 4872,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://29fca365-7edd-4014-89c0-f4599e4b11e5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://chaouabti.github.io/The-Peridexion-tree/images/Bern_318_017v/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://chaouabti.github.io/The-Peridexion-tree/images/Bern_318_017v",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 6496,
+          "width" : 4872
+        },
+        "on" : "http://e4fbb5cf-98b2-40d1-a780-308061d6ea8c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://cb6e6dc5-05bd-4f23-b4b7-fd3a0fff5acf",
+      "@type" : "sc:Canvas",
+      "label" : "Bodleian_Ashmole_1511_f77v",
+      "height" : 8335,
+      "width" : 6366,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8be38e91-3fae-46a1-8970-737b809cf7c1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://chaouabti.github.io/The-Peridexion-tree/images/Bodleian_Library_Ashmole_1511_f77v/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://chaouabti.github.io/The-Peridexion-tree/images/Bodleian_Library_Ashmole_1511_f77v",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 8335,
+          "width" : 6366
+        },
+        "on" : "http://cb6e6dc5-05bd-4f23-b4b7-fd3a0fff5acf"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a4ccd640-3992-4bd2-9ee7-42b9ead4b49b",
+      "@type" : "sc:Canvas",
+      "label" : "Reg._Lat_258_33r",
+      "height" : 2236,
+      "width" : 1654,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a7babe3a-6414-4b16-9259-2703445f2236",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://chaouabti.github.io/The-Peridexion-tree/images/Reg_Lat_33r/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://chaouabti.github.io/The-Peridexion-tree/images/Reg_Lat_33r",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2236,
+          "width" : 1654
+        },
+        "on" : "http://a4ccd640-3992-4bd2-9ee7-42b9ead4b49b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://21eb4891-86ee-43b4-a341-42d871456627",
+      "@type" : "sc:Canvas",
+      "label" : "BnF_fr_6838B_f30v",
+      "height" : 2566,
+      "width" : 2048,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8357701f-8f23-4f1f-9fc8-6e21b7faee6f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://chaouabti.github.io/The-Peridexion-tree/images/BnF_6838B_f30v/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://chaouabti.github.io/The-Peridexion-tree/images/BnF_6838B_f30v",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2566,
+          "width" : 2048
+        },
+        "on" : "http://21eb4891-86ee-43b4-a341-42d871456627"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://291d82cf-5c4c-46c2-8037-1bf98012f841",
+      "@type" : "sc:Canvas",
+      "label" : "Add._11283_f24v",
+      "height" : 8024,
+      "width" : 5517,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://bb27ec47-c544-4427-966f-c6e2646ee9fb",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://chaouabti.github.io/The-Peridexion-tree/images/Add._11283_f24v/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://chaouabti.github.io/The-Peridexion-tree/images/Add._11283_f24v",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 8024,
+          "width" : 5517
+        },
+        "on" : "http://291d82cf-5c4c-46c2-8037-1bf98012f841"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://85a0d73f-bd2a-4d8f-8c82-d6e3d148fc87",
+      "@type" : "sc:Canvas",
+      "label" : "CCC_Paker_Library_022_169r",
+      "height" : 8867,
+      "width" : 5880,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b5ff41c5-4307-4de9-ab27-f18f29e11ba0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://chaouabti.github.io/The-Peridexion-tree/images/CCC_Paker_Library_022_169r/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://chaouabti.github.io/The-Peridexion-tree/images/CCC_Paker_Library_022_169r",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 8867,
+          "width" : 5880
+        },
+        "on" : "http://85a0d73f-bd2a-4d8f-8c82-d6e3d148fc87"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
