@@ -9,7 +9,7 @@
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Thanks to the various institutions that shared their collections: the Burgerbibliothek (Bern), the Bodleian Library (Oxford), the Parker Library (Cambridge), the Biblioteca Apostolica Vaticana (Roma), the British Library (London) and the Bibliothèque nationale de France (Paris)]",
+  "attribution" : "[Thanks to the various institutions that shared their collections: the Bern's Burgerbibliothek , the Oxford's Bodleian Library, the Cambridge's Parker Library, the Roma's Biblioteca Apostolica Vaticana, the London's British Library and the Paris' Bibliothèque nationale de France]",
   "sequences" : [ {
     "@id" : "http://92ee62af-1267-45ad-b930-d04934e4a800",
     "@type" : "sc:Sequence",
