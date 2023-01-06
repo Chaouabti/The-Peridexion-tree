@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/manifests/peridexion_project.json",
     "label" : "Peridexion_tree"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/manifests/Peridexion_project2.json",
+    "label" : "Peridexion_tree"
   } ]
 }
