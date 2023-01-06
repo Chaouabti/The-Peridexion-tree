@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://Chaouabti.github.io/The-Peridexion-tree/annotations/3c07b9e49007fc4ce9a3108039760b59.json", "https://Chaouabti.github.io/The-Peridexion-tree/annotations/5a77b339be6a5fedd80d1a4386b3dac6.json" ],
+  "otherContent" : [ "https://Chaouabti.github.io/The-Peridexion-tree/annotations/3c07b9e49007fc4ce9a3108039760b59.json", "https://Chaouabti.github.io/The-Peridexion-tree/annotations/5a77b339be6a5fedd80d1a4386b3dac6.json", "https://Chaouabti.github.io/The-Peridexion-tree/annotations/c3117068161eb5f331f0151eb9de0deb.json" ],
   "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/annotations/collection.json",
   "label" : "All annotations loaded in Chaouabti/The-Peridexion-tree project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
