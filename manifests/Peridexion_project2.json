@@ -3,6 +3,11 @@
   "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/manifests/Peridexion_project2.json",
   "@type" : "sc:Manifest",
   "label" : "Peridexion_tree",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/119695054/af95aa6462b4e78d4273715b3792f137/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "[The Peridexion tree: an iconographic comparison around the same motif. Examples from different manuscripts from the 12th and 13th centuries.]",
