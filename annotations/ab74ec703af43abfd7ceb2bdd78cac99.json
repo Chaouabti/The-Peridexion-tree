@@ -1,0 +1,336 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The fruit",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The fruit</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/119695054",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-06T15:59:26",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673020766978",
+    "dcterms:modified" : "2023-01-06T15:59:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/manifests/peridexion_project.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=821,1038,61,52"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M830.39683,1045.23776c5.64756,-4.3305 13.61436,-7.55528 21.61977,-7.55142v0v0c8.00541,0.00385 14.97946,3.02058 21.61977,7.55142c6.64031,4.53084 9.22131,11.43498 8.9552,18.23075c-0.26611,6.79577 -3.37934,13.48319 -8.9552,18.23075c-5.57586,4.74756 -13.61436,7.55528 -21.61977,7.55142c-8.00541,-0.00385 -15.97772,-2.81927 -21.61977,-7.55142c-5.64205,-4.73215 -8.95382,-11.38104 -8.9552,-18.23075c-0.00138,-6.84971 3.30764,-13.90025 8.9552,-18.23075z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_466d3baa-741e-46e3-9829-531e6f68627e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a4ccd640-3992-4bd2-9ee7-42b9ead4b49b"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/manifests/peridexion_project.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=828,1234,59,56"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M836.44851,1242.2253c5.45083,-4.68829 13.14011,-8.1795 20.86665,-8.17532v0v0c7.72654,0.00417 14.45766,3.27014 20.86665,8.17532c6.409,4.90518 8.90009,12.37974 8.64325,19.73698c-0.25684,7.35724 -3.26162,14.59717 -8.64325,19.73698c-5.38163,5.13981 -13.14011,8.1795 -20.86665,8.17532c-7.72654,-0.00417 -15.42115,-3.0522 -20.86665,-8.17532c-5.44551,-5.12312 -8.64192,-12.32134 -8.64325,-19.73698c-0.00133,-7.41564 3.19242,-15.04869 8.64325,-19.73698z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_f76a0df7-bfad-4333-bcde-05e58520ebfd\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a4ccd640-3992-4bd2-9ee7-42b9ead4b49b"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/manifests/peridexion_project.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=909,1038,54,56"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M916.57773,1045.86166c4.959,-4.68829 11.95448,-8.1795 18.98386,-8.17532v0v0c7.02938,0.00417 13.15315,3.27014 18.98386,8.17532c5.83072,4.90518 8.09704,12.37974 7.86337,19.73698c-0.23367,7.35724 -2.96733,14.59717 -7.86337,19.73698c-4.89605,5.13981 -11.95448,8.1795 -18.98386,8.17532c-7.02938,-0.00417 -14.0297,-3.0522 -18.98386,-8.17532c-4.95416,-5.12312 -7.86216,-12.32134 -7.86337,-19.73698c-0.00121,-7.41564 2.90437,-15.04869 7.86337,-19.73698z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_9f83e8b6-5fde-4cf2-b5fd-9a818cd34984\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a4ccd640-3992-4bd2-9ee7-42b9ead4b49b"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/manifests/peridexion_project.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1087,1209,62,62"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1096.00735,1217.7066c5.74593,-5.22497 13.85149,-9.11583 21.99633,-9.11118v0v0c8.14484,0.00465 15.24036,3.64448 21.99633,9.11118c6.75597,5.46669 9.38192,13.79688 9.11118,21.99633c-0.27075,8.19945 -3.4382,16.26815 -9.11118,21.99633c-5.67298,5.72818 -13.85149,9.11583 -21.99633,9.11118c-8.14484,-0.00465 -16.25601,-3.40159 -21.99633,-9.11118c-5.74032,-5.70958 -9.10977,-13.7318 -9.11118,-21.99633c-0.0014,-8.26453 3.36525,-16.77136 9.11118,-21.99633z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_3a4d997f-bbe4-4d94-b2a9-75625f7b05a6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a4ccd640-3992-4bd2-9ee7-42b9ead4b49b"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/manifests/peridexion_project.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1124,1033,56,58"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1132.34422,1041.62816c5.15574,-4.86718 12.42874,-8.49161 19.73698,-8.48728v0v0c7.30824,0.00433 13.67495,3.39492 19.73698,8.48728c6.06203,5.09235 8.41826,12.85212 8.17532,20.4901c-0.24294,7.63798 -3.08504,15.15416 -8.17532,20.4901c-5.09028,5.33593 -12.42874,8.49161 -19.73698,8.48728c-7.30824,-0.00433 -14.58628,-3.16867 -19.73698,-8.48728c-5.1507,-5.31861 -8.17407,-12.7915 -8.17532,-20.4901c-0.00126,-7.6986 3.01959,-15.62291 8.17532,-20.4901z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_c701a76d-f856-42f3-9d77-ac6e23b5c260\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a4ccd640-3992-4bd2-9ee7-42b9ead4b49b"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/manifests/peridexion_project.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1027,1045,55,46"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1034.91552,1051.73061c5.05737,-3.88327 12.19161,-6.775 19.36042,-6.77155v0v0c7.16881,0.00345 13.41405,2.70863 19.36042,6.77155c5.94637,4.06292 8.25765,10.25402 8.01935,16.34796c-0.2383,6.09394 -3.02619,12.0907 -8.01935,16.34796c-4.99316,4.25726 -12.19161,6.775 -19.36042,6.77155c-7.16881,-0.00345 -14.30799,-2.52811 -19.36042,-6.77155c-5.05243,-4.24344 -8.01811,-10.20566 -8.01935,-16.34796c-0.00123,-6.1423 2.96198,-12.46469 8.01935,-16.34796z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_5d12dc6d-f00e-4985-bd9d-3beed77ffac7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a4ccd640-3992-4bd2-9ee7-42b9ead4b49b"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/manifests/peridexion_project.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=812,1306,72,105"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M822.86567,1321.24051c6.63121,-8.81556 15.98561,-15.3802 25.38535,-15.37236v0v0c9.39973,0.00784 17.58848,6.14896 25.38535,15.37236c7.79687,9.2234 10.82742,23.27807 10.51495,37.11216c-0.31246,13.83409 -3.96793,27.44759 -10.51495,37.11216c-6.54703,9.66457 -15.98561,15.3802 -25.38535,15.37236c-9.39973,-0.00784 -18.76061,-5.73916 -25.38535,-15.37236c-6.62474,-9.6332 -10.51334,-23.16827 -10.51495,-37.11216c-0.00162,-13.94389 3.88374,-28.2966 10.51495,-37.11216z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_e2401d80-ca45-4de0-a90f-06c4e0b23dff\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a4ccd640-3992-4bd2-9ee7-42b9ead4b49b"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/manifests/peridexion_project.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1085,1333,71,69"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1095.43697,1343.18791c6.53285,-5.76165 15.74849,-10.05215 25.00879,-10.04703v0v0c9.2603,0.00513 17.32757,4.01882 25.00879,10.04703c7.68121,6.0282 10.66681,15.21402 10.35898,24.25567c-0.30783,9.04165 -3.90907,17.93913 -10.35898,24.25567c-6.44991,6.31654 -15.74849,10.05215 -25.00879,10.04703c-9.2603,-0.00513 -18.48232,-3.75099 -25.00879,-10.04703c-6.52647,-6.29604 -10.35738,-15.14226 -10.35898,-24.25567c-0.00159,-9.11341 3.82613,-18.49402 10.35898,-24.25567z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_ed6dd751-a4b8-49e9-bd39-33a683e6fb83\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a4ccd640-3992-4bd2-9ee7-42b9ead4b49b"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/manifests/peridexion_project.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1130,1289,54,54"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1137.48682,1296.4588c4.959,-4.50939 11.95448,-7.86739 18.98386,-7.86337v0v0c7.02938,0.00401 13.15315,3.14536 18.98386,7.86337c5.83072,4.71801 8.09704,11.90736 7.86337,18.98386c-0.23367,7.07651 -2.96733,14.04018 -7.86337,18.98386c-4.89605,4.94369 -11.95448,7.86739 -18.98386,7.86337c-7.02938,-0.00401 -14.0297,-2.93574 -18.98386,-7.86337c-4.95416,-4.92764 -7.86216,-11.85119 -7.86337,-18.98386c-0.00121,-7.13267 2.90437,-14.47447 7.86337,-18.98386z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_839f0e3f-4dcb-44f0-b7c1-2412138ba935\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a4ccd640-3992-4bd2-9ee7-42b9ead4b49b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The Peridexion tree",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The Peridexion tree</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/119695054",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-06T16:00:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673020802494",
+    "dcterms:modified" : "2023-01-06T16:00:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/manifests/peridexion_project.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=723,1001,535,507"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M723.45455,1000.60835h267.36364v0h267.36364v253.72727v253.72727h-267.36364h-267.36364v-253.72727z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d20c5ecb-b692-425f-8cab-56b08c9e7699\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a4ccd640-3992-4bd2-9ee7-42b9ead4b49b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The doves",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The doves</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/119695054",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-06T15:57:57",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673020677481",
+    "dcterms:modified" : "2023-01-06T15:57:57",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/manifests/peridexion_project.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=856,1063,158,131"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M879.05643,1082.34544c14.54859,-11.0132 35.07173,-19.21436 55.69433,-19.20456v0v0c20.6226,0.0098 38.58834,7.68185 55.69433,19.20456c17.10599,11.52271 23.75487,29.0811 23.06935,46.36391c-0.68553,17.28281 -8.70546,34.29005 -23.06935,46.36391c-14.36389,12.07387 -35.07173,19.21436 -55.69433,19.20456c-20.6226,-0.0098 -41.15995,-7.16989 -55.69433,-19.20456c-14.53438,-12.03467 -23.06579,-28.94393 -23.06935,-46.36391c-0.00355,-17.41999 8.52076,-35.35071 23.06935,-46.36391z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_823fe6b0-812b-441e-88c2-b15bf507297b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a4ccd640-3992-4bd2-9ee7-42b9ead4b49b"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/manifests/peridexion_project.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=989,1160,177,142"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1140.91289,1180.31384c-16.38625,-11.93348 -39.5017,-20.81994 -62.72917,-20.80933v0v0c-23.22747,0.01062 -43.4625,8.32376 -62.72917,20.80933c-19.26668,12.48557 -26.75539,31.51117 -25.98327,50.23816c0.77212,18.72699 9.80506,37.15538 25.98327,50.23816c16.17822,13.08278 39.5017,20.81994 62.72917,20.80933c23.22747,-0.01062 46.35893,-7.76902 62.72917,-20.80933c16.37024,-13.04031 25.97927,-31.36253 25.98327,-50.23816c0.004,-18.87563 -9.59703,-38.30468 -25.98327,-50.23816z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_7a09ccd9-da45-499e-9f8c-2596bfbcd3e9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a4ccd640-3992-4bd2-9ee7-42b9ead4b49b"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/manifests/peridexion_project.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=816,1177,162,127"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M839.75994,1195.40292c14.99226,-10.68123 36.14126,-18.63518 57.39276,-18.62567v0v0c21.25149,0.0095 39.76511,7.45029 57.39276,18.62567c17.62765,11.17538 24.47929,28.2045 23.77286,44.96635c-0.70643,16.76185 -8.97094,33.25643 -23.77286,44.96635c-14.80192,11.70992 -36.14126,18.63518 -57.39276,18.62567c-21.25149,-0.0095 -42.41514,-6.95377 -57.39276,-18.62567c-14.97762,-11.67191 -23.7692,-28.07146 -23.77286,-44.96635c-0.00366,-16.89489 8.7806,-34.28512 23.77286,-44.96635z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_7952bae1-7c49-4bbe-ba40-dc96ea5e24b4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a4ccd640-3992-4bd2-9ee7-42b9ead4b49b"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/manifests/peridexion_project.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=980,1074,160,122"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1117.04486,1091.89577c-14.8124,-10.23399 -35.7077,-17.8549 -56.70425,-17.8458v0v0c-20.99655,0.00911 -39.28807,7.13834 -56.70425,17.8458c-17.41618,10.70745 -24.18563,27.02355 -23.48767,43.08356c0.69796,16.06001 8.86332,31.86395 23.48767,43.08356c14.62435,11.21961 35.7077,17.8549 56.70425,17.8458c20.99655,-0.00911 41.90631,-6.6626 56.70425,-17.8458c14.79794,-11.18319 23.48405,-26.89608 23.48767,-43.08356c0.00362,-16.18749 -8.67527,-32.84957 -23.48767,-43.08356z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_530d6763-bc39-4b65-9429-576855afc656\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a4ccd640-3992-4bd2-9ee7-42b9ead4b49b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "De arbore per quam Dominus",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>De arbore per quam Dominus</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/119695054",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-06T15:56:06",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1673020566184",
+    "dcterms:modified" : "2023-01-06T15:56:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/manifests/peridexion_project.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=222,625,403,77"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M221.63636,625.1538h201.45455v0h201.45455v38.72727v38.72727h-201.45455h-201.45455v-38.72727z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6ad1c9b7-47c6-4913-af7b-1d2f86605f18\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a4ccd640-3992-4bd2-9ee7-42b9ead4b49b"
+    } ]
+  } ],
+  "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/annotations/ab74ec703af43abfd7ceb2bdd78cac99.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
