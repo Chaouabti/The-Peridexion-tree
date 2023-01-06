@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://Chaouabti.github.io/The-Peridexion-tree/annotations/e5ff2160c0774e821b9f2a412a3fa9ea.json" ],
+  "otherContent" : [ ],
   "@id" : "https://Chaouabti.github.io/The-Peridexion-tree/annotations/collection.json",
   "label" : "All annotations loaded in Chaouabti/The-Peridexion-tree project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
